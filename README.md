@@ -7,3 +7,4 @@ Bu praktiki kurs, bacarıqlarını sürətlə inkişaf etdirmək və funksional,
 ## Live Demo
 
  - [Expanding Cards](https://expandingcardswebproject.netlify.app/)
+ - [Hidden Search Widget](https://hiddensearchminiproject.netlify.app/)
